@@ -1,0 +1,27 @@
+Vehicle Parking App
+Welcome to the Vehicle Parking Application! This applicatiion is basically a parking management app in which you can see,park,remove your vehicles.
+Maxmimum Capacity of parking lot is of 20 vehicles
+
+Features
+
+Login: For Login into Application
+Registration: For Registration of users
+Parking: Park your Vehicle
+Remove vehicle: Remove your vehicles from the parking
+See Vehicles: Shows the Parked Vehicles 
+
+Pre-requirement
+
+You are required to create two tables one for user registration on one for vehicle parking then integrate it into code.
+User id table should contain following Parameters
+Name
+E-mail
+Mobile number
+Username
+Pssword
+Gender 
+ 
+Parked Car table should contain
+Vehicle Type
+Vehicle number
+
